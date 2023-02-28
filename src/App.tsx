@@ -8,7 +8,7 @@ import FocusAreas from './components/focus-areas/FocusAreas';
 import Future from './components/future/Future';
 import OurWork from './components/our-work/OurWork';
 import Services from './components/services-comp/Services';
-import Carousel from './components/carousel/Carousel';
+
 
 function App() {
 
