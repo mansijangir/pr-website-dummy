@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import styles from "./future.module.scss";
 import CountUp from "react-countup";
 export default function Future() {
