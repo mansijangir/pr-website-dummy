@@ -1,4 +1,4 @@
-import React, { useState,useRef  } from "react";
+import React, { useState} from "react";
 import styles from "./services.module.scss";
 import Data from "./data.json";
 import { FiPlus, FiMinus } from "react-icons/fi";

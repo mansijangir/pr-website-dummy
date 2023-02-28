@@ -21,7 +21,7 @@ function App() {
       <Future/>
       <OurWork/>
       <Services/>
-      <Carousel/>
+      
     </div>
   );
 }
