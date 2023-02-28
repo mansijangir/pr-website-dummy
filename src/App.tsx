@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import logo from './logo.svg';
+import React from 'react';
+
 import './App.scss';
 import Header from './components/header/Header';
 import HeroBanner from './components/hero-banner/HeroBanner';

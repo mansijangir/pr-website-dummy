@@ -33,11 +33,11 @@ export default function Header() {
               </div>
               <hr className={styles.hrDivider}/>
               <div className={styles.headerOptions}>
-                <a href="#" className={styles.headerOptionsItem}>about us</a>
-                <a href="#" className={styles.headerOptionsItem}>focus areas</a>
-                <a href="#" className={styles.headerOptionsItem}>services</a>
-                <a href="#" className={styles.headerOptionsItem}>team</a>
-                <a href="#" className={styles.headerOptionsItem}>contact</a>
+                <a href="a.html" className={styles.headerOptionsItem}>about us</a>
+                <a href="a.html" className={styles.headerOptionsItem}>focus areas</a>
+                <a href="a.html" className={styles.headerOptionsItem}>services</a>
+                <a href="a.html" className={styles.headerOptionsItem}>team</a>
+                <a href="a.html" className={styles.headerOptionsItem}>contact</a>
               </div>
           </div>
           <div className={styles.headerLinkContainer}>

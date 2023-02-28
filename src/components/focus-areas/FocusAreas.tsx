@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import styles from "./focus-areas.module.scss";
 import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/ai";
 import Data from "./data.json";
-import { FiSliders } from "react-icons/fi";
 // import { url } from "inspector";
 
 export default function FocusAreas() {

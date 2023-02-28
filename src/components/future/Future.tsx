@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import styles from "./future.module.scss";
 import CountUp from "react-countup";
 export default function Future() {
-  const [counter, setCounter] = useState<number>(0);
 
   return (
     <div className={styles.future}>

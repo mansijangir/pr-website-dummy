@@ -5,7 +5,7 @@ import { FiPlus, FiMinus } from "react-icons/fi";
 export default function Services() {
   const [activeTab, setActiveTab] = useState<string>("public relations");
   // const [toggle, setToggle] = useState<boolean>(true);
-  const ref = useRef()
+ 
   const toggleTab = (index: string) => {
     if(activeTab === index){
       setActiveTab(" ");
