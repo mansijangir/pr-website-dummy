@@ -41,7 +41,7 @@ export default function Header() {
               </div>
           </div>
           <div className={styles.headerLinkContainer}>
-          <a className={styles.headerLink}>
+          <a href="a.html" className={styles.headerLink}>
             luna capital
           </a>
           <FiArrowUpRight className={styles.headerLink}/>
