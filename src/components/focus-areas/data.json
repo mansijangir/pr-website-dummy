@@ -1,0 +1,58 @@
+{
+    "carouselitem":
+    [
+       { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2F3f4c0c06-6c6b-4c6e-934f-fee90eb4b10d_Group%2B6099.webp%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C734%2C1484%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Web 3.0"
+    },
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2F0074a0b1-e809-4200-bb99-da0f806ff393_Group%2B6102.webp%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C734%2C1484%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Blockchain"
+    },
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2F9a5b185b-32b3-4227-a372-389dd317a8f8_digital%2Bassets.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Digital Assets and NFTs"
+    },
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ff6a693a9-35cf-46f5-a7b6-0bc33b3aff57_Group%2B6103.webp%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C734%2C1484%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "GameFi"
+    },
+
+    
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Fd840813f-927b-4880-8ee6-6e3e9a879a6a_fintech.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Fintech"
+    },
+
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc3bd684-36be-419c-9c3d-09666d908932_gov.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Government Entities"
+    },
+
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Fac56e3e7-1345-4e5f-a115-f689c0f4fea5_AI.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Artificial Intelligence"
+    },
+
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2F43553d85-8f90-4e90-821f-6aa91d10284e_IPO.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "IPO,s and SPAC's"
+    },
+
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Fffeceaba-87b7-4c4c-8506-5b662c87cfb6_space.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+       "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+       "carouselItems": "Space Tech"
+    },
+
+
+
+    { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2F8069945e-8b7e-4eac-a422-7ab5f13ce8bb_engineering.png%3Fauto%3Dcompress%2Cformat%26rect%3D1%2C0%2C367%2C742%26w%3D549%26h%3D1110&w=256&q=75",
+    "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+    "carouselItems": "Emerging Tech"
+ },
+ { "carouselBg" :"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Fd1a37c03-aef7-4e7e-beeb-9af5da2f4b2e_green.png%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C0%2C367%2C743%26w%3D549%26h%3D1110&w=256&q=75",
+ "carouselIcon":"https://www.lunapr.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Flunapr-new%2Ffc16ca04-1895-4b5f-b004-036e08b22ff9_1.webp%3Fauto%3Dcompress%2Cformat&w=32&q=75",
+ "carouselItems": "Green Tech"
+}
+    ]
+}

@@ -1,0 +1,50 @@
+.aboutUs
+{
+    width: 100%;
+    margin: 5rem 0;
+}
+
+.aboutUsContainer
+{
+    max-width: 1240px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 2.5rem;
+}
+.headingSmall
+{
+    position: relative;
+    padding-left: 75px;
+}
+.headingSmall::before
+{
+    position: absolute;
+    content: "";
+    display: block;
+    width: 70px;
+    height: 1px;
+    background: black;
+    left: 0;
+    top: 50%;
+
+}
+.headingBig
+{
+    font-size: 3.75rem;
+}
+
+.description
+{
+    font-size: 1.125rem;
+    color:  #5D5781;;
+}
+.aboutUsImgContainer
+{
+    margin-right: 30px;
+    overflow: hidden;
+}
+.aboutUsImg
+{
+    width: 100%;
+}

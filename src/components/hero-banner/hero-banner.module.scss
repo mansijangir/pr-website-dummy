@@ -1,0 +1,64 @@
+.heroBanner
+{
+    width: 100%;
+    height: 100vh;
+    max-width: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contentContainer
+{
+    // border: 1px white solid;
+    // height: 400px;
+    // width: 400px;
+    margin: 220px 0;
+    text-align: center;
+    max-width: 700px;
+    
+}
+.contentText_small
+{
+  color: white;
+  font-size: 1.5rem;
+  margin: 0;
+}
+.contentText_big
+{
+    color: white;
+  font-size: 4.5rem;
+  margin: 20px 0 40px 0;
+}
+.bannerButton
+{
+    white-space: nowrap;
+    vertical-align: middle;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    line-height: 1.2;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.6);
+    border-width: 1px;
+    border-color: #E5E5E5;
+    border-style: solid;
+    backdrop-filter: blur(5px);
+    padding: 28px 40px;
+    font-size: 16px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px,rgba(0, 0, 0, 0.2) 0px 5px 10px,rgba(0, 0, 0, 0.4) 0px 15px 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: flex;
+    margin: auto;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+.arrow
+{
+    padding: 0 10px;
+}
+.bannerButton:hover
+{
+    background-color: #fff;
+}

@@ -1,0 +1,114 @@
+.header
+{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: 999;
+    position: fixed;
+    height: 120px;
+}
+.activeHeader
+{
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: 999;
+    position: fixed;
+    height: 120px;
+    transition: all 0.3s ease-in-out;
+}
+
+.headerContainer
+{
+    max-width: 1240px;
+    margin: auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Questrial', sans-serif;
+}
+.logoImg
+{
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+.logoContainer
+{
+    width: 7rem;
+}
+
+.headerLinkContainer
+{
+    display: flex;
+    align-items: center;
+    // width: 90%;
+}
+
+.headerOptionsContainer
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+// width: 50%;
+}
+.headerOptions
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.headerLink
+{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 5px;
+}
+.countryName
+{
+    letter-spacing: 1.125em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+}
+.headerOptionsItem{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+    
+
+}
+.countryContainer
+{
+    text-align: center;
+}
+.hrDivider
+{
+    margin-top: 0.5rem;
+    margin-inline-end: 0px;
+    margin-bottom: 0px;
+    margin-inline-start: 0px;
+    opacity: 0.6;
+    border: 0;
+    border-color: inherit;
+    border-style: solid;
+    border-bottom-width: 1px;
+    width: 100%;
+}
+.headerLinkContainer
+{
+    cursor: pointer;
+}

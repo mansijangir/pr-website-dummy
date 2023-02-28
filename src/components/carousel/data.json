@@ -1,0 +1,25 @@
+{
+    "swiperData":
+    [
+        {
+            "img":"https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_960_720.jpg",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "slideNo":"1"
+        },
+        {
+            "img":"https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_960_720.jpg",
+            "desc":"Id, explicabo inventore. Quam culpa non modi recusandae perspiciatis",
+            "slideNo":"2"
+        },
+        {
+            "img":"https://cdn.pixabay.com/photo/2014/09/07/22/17/forest-438432_960_720.jpg",
+            "desc":"numquam autem ratione harum voluptatum laborum ea",
+            "slideNo":"3"
+        },
+        {
+            "img":"https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_960_720.jpg",
+            "desc":"accusantium, delectus quasi sequi? Saepe, labore?",
+            "slideNo":"4"
+        }
+    ]
+}
